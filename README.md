@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Mahak Deep Kaur</h1>
+<h1 align="center">I'm Mahak Deep Kaur</h1>
 <h3 align="center">🚀 A B.Tech CSE Student passionate about Programming, Web Development & Data Analysis</h3>
 
 ---
@@ -10,7 +10,7 @@
 - 🌐 Currently exploring **Frontend Web Development** using **HTML5, CSS, React,javascript**
 - 📊 Learning **Data Analysis** to find stories in data
 - 🌱 I’m currently building personal projects to enhance my skills
-- 📫 How to reach me: **mahakdeepkaur10212@gmail.com** (replace with actual email)
+- 📫 How to reach me: **mahakdeepkaur10212@gmail.com** 
 
 ---
 
