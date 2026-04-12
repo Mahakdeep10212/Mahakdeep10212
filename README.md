@@ -1,14 +1,14 @@
 ## Hi there 👋
 <h1 align="center">I'm Mahak Deep Kaur</h1>
-<h3 align="center">🚀 A B.Tech CSE Student passionate about Programming, Web Development & Data Analysis</h3>
+<h3 align="center">🚀 A B.Tech CSE Student passionate about Programming, Web Development & specializing in Artificial Intelligence and Machine Learning</h3>
 
 ---
 
 ### 🧠 About Me
 - 👩‍🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering**
-- 💻 I love solving problems using **C++, C, Python**
-- 🌐 Currently exploring **Frontend Web Development** using **HTML5, CSS, React,javascript**
-- 📊 Learning **Data Analysis** to find stories in data
+- 💻 I love solving problems using **C++, C, Python,JavaScript**
+- 🌐 Current learning **Deep Learning, Natural Language Processing (NLP), Computer VisionData Analytics & Visualization**
+- 📊 Learning ibraries & Frameworks: **NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch**
 - 🌱 I’m currently building personal projects to enhance my skills
 - 📫 How to reach me: **mahakdeepkaur10212@gmail.com** 
 
